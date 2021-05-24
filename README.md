@@ -8,7 +8,7 @@ Parentheses Validator
 -
 
 ```bash
-composer require psr/log
+composer require aeg85/parentheses-validator
 ```
 
 **Примеры использоватния**
