@@ -13,7 +13,7 @@ class ParenthesesValidator
      */
     public static function validateBrackets(string $string): bool
     {
-        if (empty($string) || !is_string($string))
+        if (empty($string))
             return false;
         //RegExp pattern
         $exp = '/\A[^\(\)]*(\((?>[^\(\)]|(?1))*\)[^\(\)]*)+\z/';
