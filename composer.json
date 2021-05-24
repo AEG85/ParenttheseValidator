@@ -1,7 +1,7 @@
 {
   "name": "aeg85/parentheses-validator",
   "description": "Пакет содержит валидатор открытых и закрытых круглых скобок в строке",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
