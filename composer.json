@@ -1,0 +1,20 @@
+{
+  "name": "aeg85/parentheses-validator",
+  "description": "Пакет содержит валидатор открытых и закрытых круглых скобок в строке",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AEG85",
+      "email": "ahtirsk85@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "AEG85\\": "lib/"
+    }
+  }
+}
